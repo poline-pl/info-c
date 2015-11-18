@@ -19,6 +19,6 @@ int m;
          wyraz = fib(i);
 		 printf ("%d  ", wyraz);
 	 }
-
+	 
 wait();
 }
