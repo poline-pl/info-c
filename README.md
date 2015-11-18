@@ -1,6 +1,3 @@
-# info-c
-# include <stdio.h>
-#include "winbgi2.h"
 
 int fib(int n)
 {
